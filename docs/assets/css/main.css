@@ -8,7 +8,7 @@ body {
   width: 100%;
 	}
 
-h1, h2, h3, nav, footer {
+h1, h2, h3, h4, nav, footer {
     text-align: center;
 }
 
@@ -25,6 +25,12 @@ h2 {
 
 h3 {
     font-weight: bold;
+    padding: 1vw;
+    
+}
+
+h4 {
+    font-size: 1vw;
     padding: 1vw;
     
 }
