@@ -1,4 +1,4 @@
-# The project
+## The project
 
 This project work was committed by Elin Fellman and Marie Källman. 
 
